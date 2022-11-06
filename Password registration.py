@@ -165,7 +165,6 @@ Confirm Password: S@imbu7922
 Enter your username to login: Simbu@gmail.com
 Please Enter your password: S@imbu7922
     
-
 ***************************************Password Change***************************************************************    
 Forgot Password [Y/N] : Y
 Create your new password with atleast one capital letter one integer and one special character: S@ilambu8687
